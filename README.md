@@ -1,1 +1,1 @@
-# BlogPessoal_front-end
+# BlogPessoal_front-end (em implementação)
